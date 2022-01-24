@@ -3,3 +3,4 @@ i am try to make a new thing
 i am new in git hub 
 and i am try to make something spacel
 modified in mester branch to text git merge from git hub
+modified in mester branch to text git merge from git.
