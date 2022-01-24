@@ -1,3 +1,5 @@
 i am trying to somethig spacel for my new thing 
 i am ebel to create that thing with spacel
 i am trying to new in git hub 
+
+text added to test merge from git hub
